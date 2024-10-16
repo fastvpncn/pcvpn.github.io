@@ -437,6 +437,6 @@ NordVPN支持最多6台设备同时在线使用。虽然设备数量上不及Sur
 
 ## 电脑翻墙相关的其他文章：
 
-* <a href=https://fastvpncn.github.io/>科学上网</a>教程和最好用的<a href=https://fastvpncn.github.io/>翻墙软件</a>推荐：我们这篇科学上网教程将详细教大家如何翻墙、如何科学上网，并为大家推荐几款最好用的翻墙软件。
+* <a href=https://fastvpncn.github.io/>科学上网</a>教程和<a href=https://fastvpncn.github.io/>翻墙软件</a>推荐：我们这篇科学上网教程将详细教大家如何翻墙、如何科学上网，并为大家推荐几款最好用的翻墙软件。
 
 * <a href=https://github.com/fastvpncn/fastvpncn.github.io>VPN推荐</a>和<a href=https://github.com/fastvpncn/fastvpncn.github.io>VPN排行</a>：本文将为大家推荐几款依然能在大陆使用，且翻墙稳定、连接速度快、兼容性强、价格便宜的中国VPN软件！它们可帮助国内VPN用户快速访问Netflix、Youtube、Facebook、ChatGPT、TikTok、Telegram等网站！
