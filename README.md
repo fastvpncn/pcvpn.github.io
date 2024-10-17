@@ -1,6 +1,8 @@
 # PC电脑翻墙教程：2024年最好用的Windows电脑VPN推荐
 
-<p align="center">最近更新于：2024年10月16日</p>
+<p align="center">最近更新于：2024年10月17日</p>
+
+![电脑翻墙教程：最好用的电脑VPN和PC端VPN推荐](https://raw.githubusercontent.com/fastvpncn/pcvpn.github.io/refs/heads/main/image/%E7%94%B5%E8%84%91%E7%BF%BB%E5%A2%99%E6%95%99%E7%A8%8B%EF%BC%9A%E7%94%B5%E8%84%91VPN%E6%8E%A8%E8%8D%90.png)
 
 现如今，电脑已经成为我们工作、学习和日常生活中不可或缺的工具。无论是上班族、学生还是娱乐爱好者，电脑的使用频率都在不断增加。然而，由于网络限制，中国用户无法自由访问国外网站和服务。因此，大陆用户若想突破这些限制，首先必须解决电脑翻墙的问题。
 
