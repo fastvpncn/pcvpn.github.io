@@ -1,6 +1,6 @@
 # PC电脑翻墙教程：2024年最好用的Windows电脑VPN推荐
 
-<p align="center">最近更新于：2024年10月17日</p>
+<p align="center">最近更新于：2024年10月25日</p>
 
 ![电脑翻墙教程：最好用的电脑VPN和PC端VPN推荐](https://raw.githubusercontent.com/fastvpncn/pcvpn.github.io/refs/heads/main/image/%E7%94%B5%E8%84%91%E7%BF%BB%E5%A2%99%E6%95%99%E7%A8%8B%EF%BC%9A%E7%94%B5%E8%84%91VPN%E6%8E%A8%E8%8D%90.png)
 
@@ -484,3 +484,5 @@ NordVPN支持最多6台设备同时在线使用。虽然设备数量上不及Sur
 * <a href=https://fastvpncn.github.io/>科学上网</a>教程和<a href=https://fastvpncn.github.io/>翻墙软件</a>推荐：我们这篇科学上网教程将详细教大家如何翻墙、如何科学上网，并为大家推荐几款最好用的翻墙软件。
 
 * <a href=https://github.com/fastvpncn/fastvpncn.github.io>VPN推荐</a>和<a href=https://github.com/fastvpncn/fastvpncn.github.io>VPN排行</a>：本文将为大家推荐几款依然能在大陆使用，且翻墙稳定、连接速度快、兼容性强、价格便宜的中国VPN软件！它们可帮助国内VPN用户快速访问Netflix、Youtube、Facebook、ChatGPT、TikTok、Telegram等网站！
+
+* <a href=https://github.com/fastvpncn/expressvpn-review>ExpressVPN中国评测</a>：ExpressVPN怎么样？ExpressVPN好用吗？ExpressVPN国内还能用吗？在本篇ExpressVPN评测中，我们将从翻墙能力、安全性、使用体验和价格等多个方面进行深入分析，帮助你全面了解ExpressVPN在中国的实际表现。
