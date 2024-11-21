@@ -487,6 +487,8 @@ NordVPN支持最多6台设备同时在线使用。虽然设备数量上不及Sur
 
 * <a href=https://github.com/fastvpncn/fastvpncn.github.io>VPN推荐</a>和<a href=https://github.com/fastvpncn/fastvpncn.github.io>VPN排行</a>：本文将为大家推荐几款依然能在大陆使用，且翻墙稳定、连接速度快、兼容性强、价格便宜的中国VPN软件！它们可帮助国内VPN用户快速访问Netflix、Youtube、Facebook、ChatGPT、TikTok、Telegram等网站！
 
+* <a href="https://github.com/fastvpncn/free-vpn">免费VPN</a>：2024年3款真正好用的免费VPN推荐，可在中国大陆永久免费使用，无流量和带宽限制，安全性高，速度快到可以秒开高清视频，同时支持手机和电脑多平台使用。此外，我们还将为大家介绍免费VPN为什么免费？免费VPN有哪些坑？以及海外有哪些好用的永久免费VPN等内容。
+
 * <a href=https://github.com/fastvpncn/expressvpn-review>ExpressVPN中国评测</a>：ExpressVPN怎么样？ExpressVPN好用吗？ExpressVPN国内还能用吗？在本篇ExpressVPN评测中，我们将从翻墙能力、安全性、使用体验和价格等多个方面进行深入分析，帮助你全面了解ExpressVPN在中国的实际表现。
 
 * <a href="https://github.com/fastvpncn/letsvpn-review">快连VPN怎么样</a>：快连VPN安全吗？快连VPN是钓鱼软件吗？本文将从多角度评测快连VPN，深入分析快连VPN是哪个国家的，在中国大陆是否好用，以及快连VPN价格和退款政策，帮助你更清晰地了解快连VPN，为你提供真实、客观的参考依据。
