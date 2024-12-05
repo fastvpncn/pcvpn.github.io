@@ -1,6 +1,6 @@
 # PC电脑翻墙教程：2024年最好用的Windows电脑VPN推荐
 
-<p align="center">最近更新于：2024年11月19日</p>
+<p align="center">最近更新于：2024年12月5日</p>
 
 ![电脑翻墙教程：最好用的电脑VPN和PC端VPN推荐](https://raw.githubusercontent.com/fastvpncn/pcvpn.github.io/refs/heads/main/image/%E7%94%B5%E8%84%91%E7%BF%BB%E5%A2%99%E6%95%99%E7%A8%8B%EF%BC%9A%E7%94%B5%E8%84%91VPN%E6%8E%A8%E8%8D%90.png)
 
